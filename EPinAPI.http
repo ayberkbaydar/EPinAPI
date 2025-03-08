@@ -1,0 +1,5 @@
+@EPinAPI_HostAddress = http://localhost:5157
+
+### E-Pin Listesi Getir
+GET {{EPinAPI_HostAddress}}/api/epins
+Accept: application/json
